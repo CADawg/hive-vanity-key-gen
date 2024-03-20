@@ -1,3 +1,4 @@
 *.txt
 hive-vanity-key-gen
 *.exe
+.idea
